@@ -1,2 +1,2 @@
-# TrainingRepository
+# Training Repository
 Учебный репозиторий
